@@ -65,4 +65,4 @@ SCORE: 40    LIVES: 3    LEVEL: 1
 
 ## 👤 Author
 
-Built by **Abhi Islam Abir**
+Built by **Ovi Islam Abir**
